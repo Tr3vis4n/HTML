@@ -1,0 +1,46 @@
+#banner{
+    width: 50%;
+   
+}
+.caixa{
+    position: relative;
+    width: 940px;
+    right: 0 auto;
+}
+header{
+    background: #CCCCCC;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 15px; 
+}
+nav a{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+ }
+.produtos li{
+    display: inline-block;
+    text-align: center;
+    width: 19%;
+    vertical-align: top;
+    margin: -2 5.9%;
+    padding: 20px 30px;
+    border: 15px solid #B0E0E6; 
+    border-radius: 10px;
+    border-style: outset;
+    border-radius: 15px; /*/ ARREDONDAR A BORDA*/
+    border-style: bold;
+    }
+
+    .produto li:hover h2{
+        font-size:35px;
+
+    }
+    .produto li:active{
+        border-color: #000000;
+    }
+    .produto li:hover{
+        border-color: ##7FFFD4
+    }
