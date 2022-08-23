@@ -1,0 +1,14 @@
+main{
+   width: 940px;
+
+   margin: auto;
+}
+form{
+    margin: 40px 0;
+}
+form label{
+    display: block;
+    font-size: 20px;
+form input{
+  display: block;
+}
