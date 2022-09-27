@@ -1,0 +1,64 @@
+<<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Tabela</title>
+	<link rel="stylesheet" type="text/css" href="tabela.css">
+</head>
+<body>
+	<main>
+		<form>
+			<center>
+			<table>
+
+				<thead>
+
+				<tr>
+					<td>DIA</td>
+					<TD>HORÁRIO</TD>
+					<td>NÚMERO</td>
+					<td>EMAIL</td>
+					<td>PERÍODO</td>
+				</tr>
+                
+                </thead>   
+
+                <tr>
+
+					<TD>SEGUNDA</TD>
+					<td>8H ~ 16H</td>
+					<td>(45)_____-___</td>
+					<td>________________@_____.com</td>
+					
+			
+
+				<tr>
+
+					<TD>QUARTA</TD>
+					<td>8H ~ 20H</td>
+					<td>(45)_____-___</td>
+					<td>________________@_____.com</td>
+				</tr>
+
+				<tr>
+
+					<TD>SEXTA</TD>
+					<td>8H ~ 22H</td>
+					<td>(45)_____-___</td>
+					<td>________________@_____.com</td>
+				</tr>
+
+				<tr>
+
+					<TD>SÁBADO</TD>
+					<td>7:30H ~ 11:25H</td>
+					<td>(45)_____-__</td>
+					<td>________________@_____.com</td>
+				</tr>
+				
+			</table>
+			<input type="submit" value="ENVIAR O HORÁRIO">
+		</center>
+		</form>
+</body>
+</html>
