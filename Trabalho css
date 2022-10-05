@@ -1,0 +1,23 @@
+table{
+	margin: 20px 0 40px;
+	font-family: italic;
+}
+thead{
+	background: #555555;
+	color: white
+	font-weight: bold;
+}
+body{
+	background-image: linear-gradient(to bottom right , #1E90FF, #7B68EE, #FFB6C1);
+	text-align: left;
+}
+#banner{
+width: 30%
+}
+label{
+	display:block;
+
+}
+main{
+	  display: inline block;
+}
