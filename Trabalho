@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Aulas</title>
+	<link rel="stylesheet" type="text/css" href="cssindex.css">
+    </head>
+
+
+<body>
+
+        <h1 style="text-align: left;
+        color: white;" >Seleção de Aulas</h1>
+        <h1><img id = "banner" src ="123.jpg"> </h1>
+<main>
+	<form>  
+
+    <p style="color: white;">Escolha uma matéria.</p>	
+
+	                                    <select>	
+	                                          <option style="color: black;">Matemática</option>
+	                                          <option style="color: black;">Língua Portuguesa</option>
+                                              <option style="color: black;">Língua Inglesa</option>
+	                                          <option style="color: black;">Ed.Física</option>
+	                                          <option style="color: black;">Bioligia</option>
+	                                          <option style="color: black;">História</option>
+	                                          <option style="color: black;">Ciências</option>	
+	                                    </select>
+
+</main>
+
+<p style="color: white;">Escolha o horário</p>
+        <label style="color: white;"for="radio-manha"><input type="radio" name="manha" id="radio-manha">Manhã</label>
+		<label style="color: white;"for="radio-tarde"><input type="radio" name="tarde" id="radio-tarde">Tarde</label>
+		<label style="color: white;"for="radio-noite"><input type="radio" name="noite" id="radio-noite">Noite</label>
+
+      
+	    <label style="color: white;"for="rua ">NOME </label>
+		<input type="text" id="nome">
+
+		<label style="color: white;for="bairro ">NÚMERO</label>
+		<input type="text" id="numero">
+
+		<label style="color: white;for="cidade ">CIDADE</label>
+		<input type="text" id="cidade">
+
+			<p><input type="submit" value ="Enviar"></p>
+</form>
+</body>
