@@ -1,0 +1,68 @@
+<<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Tabela</title>
+	<link rel="stylesheet" type="text/css" href="tabela.css">
+</head>
+<body>
+	<main>
+		<form>
+			<center>
+			<table>
+<h1 style="color: #4169E1">TABELA</h1>
+				<thead>
+
+				<tr>
+					<td>DIA</td>
+					<TD>HORÁRIO</TD>
+					
+				</tr>
+                
+                </thead>   
+
+                <tr>
+
+					<TD>SEGUNDA</TD>
+					<td>8H ~ 16H</td>
+					
+					<tr>
+
+					<TD>QUARTA</TD>
+					<td>8H ~ 20H</td>
+				</tr>
+
+				<tr>
+
+					<TD>SEXTA</TD>
+					<td>8H ~ 22H</td>
+				
+				</tr>
+
+				
+				</table>
+			<h2 style="color: #4169E1"> QUAL HORÁRIO PREFERE SER ATENDIDO?</h2>
+			  <select>
+			  	<option>MANHÃ</option>
+			  	<OPTION>TARDE</OPTION>
+			  	<OPTION>NOITE</OPTION>
+			  </select>
+			  <H3 style="color: #4169E1">FORMULÁRIO</H3>
+			  <label style="color: #4169E1;"for="rua ">NOME </label>
+		<input type="text" id="NOME">
+
+		<label style="color: #4169E1;for="bairro ">EMAIL</label>
+		<input type="text" id="EMAIL">
+
+		<label style="color: #4169E1;for="cidade ">TELEFONE</label>
+		<input type="text" id="TELEFONE">
+		<h5 style="color: #4169E1">MENSAGEM</h5>
+<TEXTAREA></TEXTAREA>
+
+<label for="radio"><input type="checkbox" name="manha" id="radio"></label>
+<h4 style="color: #4169E1">	GOSTARIA DE RECEBER NOSSAS NOVIDADES POR EMAIL?</h4>
+			<p><input type="submit" value ="Enviar"></p>
+		</center>
+		</form>
+</body>
+</html>
