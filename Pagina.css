@@ -1,0 +1,18 @@
+p{
+	font-size: 20px;
+}
+#cabecalho{
+	height: 150px;
+	background: orange;
+}
+#menu{
+	height: 500px;
+	width: 300px;
+	background: greenyellow;
+}
+#pagina{
+	height: 150px;
+	background: lightblue;
+	
+}
+}
