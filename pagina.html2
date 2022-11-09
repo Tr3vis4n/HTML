@@ -25,6 +25,19 @@
      
      <div id="lado">
 	<p>LADO</p>
+	<table>
+
+				<thead>
+
+				<tr>
+					<td>CRESCENTE</td>
+					<TD>MINGUANTE</TD>
+					<td>CHEIA</td>
+					<td>NOVA</td>
+				</tr>
+                
+                </thead>
+                </table>   
 	</div>
 
 	<div id="rodape">
