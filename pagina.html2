@@ -20,7 +20,7 @@
 	<div id="pagina">
 	<p>PÁGINA</p>
 	<h2 style="color: white;"> LUA</h2>
-	<img src="banner" src="321.jpg">
+	<img id="banner" src="321.jpg">
 	</div>
      
      <div id="lado">
