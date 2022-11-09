@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>PÁGINA</title>
+	<link rel="stylesheet" type="text/css" href="pagina.css">
+</head>
+<body>
+	<div id="cabecalho">
+	<p>CABEÇALHO</p>
+	<h1 style="color: white">ASTRONOMIA</h1>
+	</div>
+
+	<div id="menu">
+		<p>MENU</p>
+		<li style="color: maroon;"> <a style="color:maroon;"href="https://www.google.com.br/">GOOGLE</li>
+	</div>
+
+	<div id="pagina">
+	<p>PÁGINA</p>
+	<h2 style="color: white;"> LUA</h2>
+	<img src="banner" src="321.jpg">
+	</div>
+     
+     <div id="lado">
+	<p>LADO</p>
+	</div>
+
+	<div id="rodape">
+	<p>RODAPÉ</p>
+	</div>
+</body>
+</html>
